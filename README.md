@@ -22,7 +22,7 @@ This is the bridge between demand forecasting and operations: knowing what will 
 | SKUs below reorder point | 37 |
 | **Annual EOQ saving** | **$93,942** |
 
-![Inventory Dashboard](charts/inventory_dashboard.png)
+![Inventory Dashboard](inventory_dashboard.png)
 
 ---
 
@@ -191,9 +191,7 @@ Project 4 of a structured path to world-class retail data science:
 ## Author
 
 **Karabo Mosala**
-Data Analyst → Retail Data Scientist
-Pepkor Holdings · Cape Town, South Africa
-
+ 
 ---
 
 *Dataset: Supply Chain Analysis via Kaggle.*
