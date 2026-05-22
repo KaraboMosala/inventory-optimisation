@@ -175,19 +175,6 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/harshsingh220
 
 ---
 
-## Portfolio Context
-
-Project 4 of a structured path to world-class retail data science:
-
-| Project | Focus | Highlight |
-|---|---|---|
-| [1 — Demand Forecasting](https://github.com/KaraboMosala/retail-demand-forecasting) | LightGBM · 3M rows | RMSLE 0.3896 · Top 5% Kaggle |
-| [2 — Customer Segmentation](https://github.com/KaraboMosala/customer-segmentation-rfm) | RFM · K-means | 27 features · £330k opportunity |
-| [3 — Pricing System](https://github.com/KaraboMosala/retail-pricing-system) | Elasticity · Promo · Markdown | 17M rows · Recommendation engine |
-| **4 — Inventory Optimisation** | **Safety stock · ROP · EOQ** | **$93k annual saving identified** |
-
----
-
 ## Author
 
 **Karabo Mosala**
