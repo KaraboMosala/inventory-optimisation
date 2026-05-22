@@ -22,7 +22,7 @@ This is the bridge between demand forecasting and operations: knowing what will 
 | SKUs below reorder point | 37 |
 | **Annual EOQ saving** | **$93,942** |
 
-![Inventory Dashboard](inventory_dashboard.png)
+![Inventory Dashboard](charts/inventory_dashboard.png)
 
 ---
 
